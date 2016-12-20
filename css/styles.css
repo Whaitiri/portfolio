@@ -1,10 +1,12 @@
 body {
   margin-top: 30px;
 }
+
 .home_main {
 	background: url("../images/home_bg.jpg") no-repeat center center fixed;
 	color: white;
 	height: 100vh;
+	min-height: 480px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -21,6 +23,7 @@ body {
 	background: url("../images/about_bg.jpg") no-repeat center center fixed;
 	color: rgba(50,50,50,1);
 	height: 100vh;
+	min-height: 480px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -30,6 +33,7 @@ body {
 .portfolio_main {
 	background: url("../images/portfolio_bg.jpg") no-repeat center center fixed;
 	height: 100vw;
+	min-height: 480px;
 	color: white;
 	text-align: center;
 	-webkit-background-size: cover;

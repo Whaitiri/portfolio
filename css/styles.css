@@ -1,5 +1,5 @@
 .home_main {
-	background: url("http://i.imgur.com/dfa9St6.jpg") no-repeat center center fixed;
+	background: url("../images/home_bg.jpg") no-repeat center center fixed;
 	height: 850px;
 	color: white;
 	-webkit-background-size: cover;
@@ -15,7 +15,7 @@
 }
 
 .about_main {
-	background: url("http://i.imgur.com/Ewtj1Wk.jpg") no-repeat center center fixed;
+	background: url("../images/about_bg.jpg") no-repeat center center fixed;
 	height: 850px;
 	color: rgba(50,50,50,1);
 	-webkit-background-size: cover;
@@ -25,7 +25,7 @@
 }
 
 .portfolio_main {
-	background: url("http://i.imgur.com/cbYuDaU.jpg") no-repeat center center fixed;
+	background: url("../images/portfolio_bg.jpg") no-repeat center center fixed;
 	height: 850px;
 	color: white;
 	text-align: center;
@@ -34,10 +34,4 @@
 	-o-background-size: cover;
 	background-size: cover;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
-}
-
-.contact_main {
-	height: 850px;
-	background-color: black;
-	color: white;
 }

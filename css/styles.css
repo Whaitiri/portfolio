@@ -1,7 +1,7 @@
 .home_main {
 	background: url("../images/home_bg.jpg") no-repeat center center fixed;
 	color: white;
-	height: 50vw;
+	height: 100vh;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -17,7 +17,7 @@
 .about_main {
 	background: url("../images/about_bg.jpg") no-repeat center center fixed;
 	color: rgba(50,50,50,1);
-	height: 50vw;
+	height: 100vh;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -26,7 +26,7 @@
 
 .portfolio_main {
 	background: url("../images/portfolio_bg.jpg") no-repeat center center fixed;
-	height: 50vw;
+	height: 100vw;
 	color: white;
 	text-align: center;
 	-webkit-background-size: cover;

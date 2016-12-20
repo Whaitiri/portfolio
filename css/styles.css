@@ -32,7 +32,7 @@ body {
 
 .portfolio_main {
 	background: url("../images/portfolio_bg.jpg") no-repeat center center fixed;
-	height: 100vw;
+	height: 100vh;
 	min-height: 480px;
 	color: white;
 	text-align: center;
